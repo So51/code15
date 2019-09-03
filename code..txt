@@ -1,0 +1,17 @@
+var a = 5;
+if (a==9)
+documant.write("You have 1 new message.")
+else 
+  document.write("You have " + a + " new messages.")
+##
+var a = 5;
+var b = 9 ;
+var c = 17 ; 
+if (a==b){
+  if (b==c)
+    documant.write("You have 1 new message.")
+else 
+  document.write("You have " + a + " new messages.")
+}
+else
+  document.write("Something wrong!<br> a not equal b")
